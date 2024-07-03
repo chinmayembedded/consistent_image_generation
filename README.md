@@ -2,6 +2,9 @@
 
 This repository contains unofficial PyTorch code for the paper [The Chosen One: Consistent Characters in Text-to-Image Diffusion Models](https://arxiv.org/abs/2311.10093), implemented using the Diffuser framework. The goal of this project is to enhance the existing pipeline and leverage lightweight models for more efficient image generation.
 
+![Sample outputs](./assets/arctic_fox.jpg)
+
+
 ## TODO List
 - [x] Code release.
 - [ ] Release models
