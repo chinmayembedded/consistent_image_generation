@@ -1,6 +1,6 @@
 # Consistent image generation using Stable diffusion XL.
 
-This repository inherits the baseline code from the PyTorch implementation of the paper [The Chosen One: Consistent Characters in Text-to-Image Diffusion Models](https://arxiv.org/abs/2311.10093), using the Diffuser framework.However, the aim of this project is to improve the pipeline further and use light weight models for image generation.
+This repository inherits the baseline code from the Unofficial PyTorch implementation of the paper [The Chosen One: Consistent Characters in Text-to-Image Diffusion Models](https://arxiv.org/abs/2311.10093), using the Diffuser framework.However, the aim of this project is to improve the pipeline further and use light weight models for image generation.
 
 ## TODO List
 - [x] Code release.
