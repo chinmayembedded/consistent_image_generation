@@ -4,6 +4,7 @@ This repository contains unofficial PyTorch code for the paper [The Chosen One: 
 
 ## TODO List
 - [x] Code release.
+- [ ] Release models
 - [x] Training instructions.
 - [x] Inference instructions.
 - [ ] Replace text to image model with lightweight and efficient models.
